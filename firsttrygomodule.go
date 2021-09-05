@@ -1,11 +1,9 @@
 package firsttrygomodule
 
 import (
-    "fmt"
+	"fmt"
 )
 
-
-func version() {
-    fmt.Println("Version 0.0.1")
+func Version() {
+	fmt.Println("Version 0.0.1")
 }
-
