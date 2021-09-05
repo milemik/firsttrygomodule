@@ -1,4 +1,4 @@
-package ivan123
+package firsttrygomodule
 
 import (
     "fmt"
